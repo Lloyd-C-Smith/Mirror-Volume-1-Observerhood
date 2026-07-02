@@ -69,18 +69,6 @@ The Theory Arc is complete through V01.03. Subsequent arcs will be released as t
 | V01.10 | Mirror Physics IV — Causal Invariance and the Speed of Constraint Propagation | Upcoming | Pending |
 | V01.11 | Mirror Physics V — Entropy, Time and Constraint Dissolution | Upcoming | Pending |
 
-## Canonical Citation Spine
-
-The current standalone Zenodo records are:
-
-| Code | Work | DOI |
-|---|---|---|
-| MP-00 | Mirror Programme Overview | https://doi.org/10.5281/zenodo.21142318 |
-| V01.00 | Volume I Overview | https://doi.org/10.5281/zenodo.21141843 |
-| V01.01 | Mirror Theory I | https://doi.org/10.5281/zenodo.21142534 |
-| V01.02 | Mirror Theory II | https://doi.org/10.5281/zenodo.21142859 |
-| V01.03 | Mirror Theory III | https://doi.org/10.5281/zenodo.21144252 |
-
 ## Citation
 
 Individual publications and labs in this repository are archived as standalone Zenodo records and assigned DOIs as they are released.
