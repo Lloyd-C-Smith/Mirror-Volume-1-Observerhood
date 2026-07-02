@@ -35,8 +35,8 @@ Volume I is organised into four arcs:
 | Code | Title | Status | DOI |
 |---|---|---|---|
 | V01.01 | Mirror Theory I — Observerhood from Constraint | Published | https://doi.org/10.5281/zenodo.21137615 |
-| V01.02 | Mirror Theory II — Ontological Consequences | In Progress | Pending |
-| V01.03 | Mirror Theory III — Recursive Observerhood in Context | Upcoming | Pending |
+| V01.02 | Mirror Theory II — Ontological Consequences | Published | https://doi.org/10.5281/zenodo.21140503 |
+| V01.03 | Mirror Theory III — Recursive Observerhood in Context | In Progress | Pending |
 
 ### Mathematical Formalisation
 
