@@ -53,7 +53,7 @@ The Theory Arc is complete through V01.03. Subsequent arcs will be released as t
 |---|---|---|---|
 | Lab I | Recursive Self-Model Reliability | Published | https://doi.org/10.5281/zenodo.21157523 |
 | Lab II | Channel-Decomposed Reliability | Published | https://doi.org/10.5281/zenodo.21159572 |
-| Lab III | Cost-Sensitive Repair | In Progress | Pending |
+| Lab III | Cost-Sensitive Repair | Published | https://doi.org/10.5281/zenodo.21161631 |
 | Lab IV | Minimal Reliability Thresholds | Upcoming | Pending |
 | Lab V | Recursive Reliability | Upcoming | Pending |
 | Lab VI | Neuro-Symbolic Persistence | Upcoming | Pending |
