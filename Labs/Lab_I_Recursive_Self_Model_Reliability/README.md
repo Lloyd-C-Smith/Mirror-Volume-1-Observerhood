@@ -1,4 +1,4 @@
-# Lab_I_Recursive_Self_Model_Reliability
+# Lab I: Recursive Self Model Reliability
 
 **Recursive Self-Model Reliability Improves Viability Under Self-Relevant Perturbation**
 
