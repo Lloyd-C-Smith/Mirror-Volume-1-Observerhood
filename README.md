@@ -1,12 +1,14 @@
 # Mirror Volume I — Observerhood
 
-This repository contains Volume I — Observerhood from Constraint, Viability and Recursive Reliability, the first substantive research arc of the Mirror Programme.
+This repository contains **Volume I — Observerhood from Constraint, Viability and Recursive Reliability**, the first substantive research arc of the Mirror Programme.
 
 Volume I investigates the conditions under which a bounded physical or computational system becomes an observer-like locus of modelled reality.
 
 ## Status
 
-Theory Arc complete. Mathematics Arc in progress.
+The **Theory Arc**, **Mathematical Formalisation Arc** and **Computational Observerhood Labs** are complete.
+
+The **Physics Support Arc** is in progress.
 
 ## Central Thesis
 
@@ -21,7 +23,7 @@ Volume I is organised into four arcs:
 3. Computational Observerhood Labs
 4. Physics Support Arc
 
-The Theory Arc is complete through V01.03. Subsequent arcs will be released as they are completed.
+The Theory Arc develops the conceptual and philosophical foundation of recursive observerhood. The Mathematical Formalisation Arc develops the constraint calculus, minimal observer thresholds and continuity formalism. The Computational Observerhood Labs provide controlled simulations of reliability, repair, recursive reliability, neuro-symbolic persistence and autobiographical continuity. The Physics Support Arc will address the physical conditions under which observerhood can persist.
 
 ## Publications
 
@@ -51,13 +53,13 @@ The Theory Arc is complete through V01.03. Subsequent arcs will be released as t
 
 | Lab | Title | Status | DOI |
 |---|---|---|---|
-| Lab I | Recursive Self-Model Reliability | Published | https://doi.org/10.5281/zenodo.21157523 |
-| Lab II | Channel-Decomposed Reliability | Published | https://doi.org/10.5281/zenodo.21159572 |
-| Lab III | Cost-Sensitive Repair | Published | https://doi.org/10.5281/zenodo.21161631 |
-| Lab IV | Minimal Reliability Thresholds | Published | https://doi.org/10.5281/zenodo.21164691 |
-| Lab V | Recursive Reliability | Published | https://doi.org/10.5281/zenodo.21166653 |
-| Lab VI | Neuro-Symbolic Persistence | Published | https://doi.org/10.5281/zenodo.21170478 |
-| Lab VII | Autobiographical Continuity | Published | https://doi.org/10.5281/zenodo.21171374 |
+| Lab I | Recursive Self-Model Reliability Improves Viability Under Self-Relevant Perturbation | Published | https://doi.org/10.5281/zenodo.21157523 |
+| Lab II | Channel-Decomposed Reliability and the Limits of Reliability Tracking Alone | Published | https://doi.org/10.5281/zenodo.21159572 |
+| Lab III | Actionable Reliability and Cost-Sensitive Repair in Viability-Constrained Agents | Published | https://doi.org/10.5281/zenodo.21161631 |
+| Lab IV | Minimal Reliability Thresholds in Viability-Constrained Agents | Published | https://doi.org/10.5281/zenodo.21164691 |
+| Lab V | Recursive Reliability Under Estimator Corruption | Published | https://doi.org/10.5281/zenodo.21166653 |
+| Lab VI | Neuro-Symbolic Persistence in Language-Like Agents | Published | https://doi.org/10.5281/zenodo.21170478 |
+| Lab VII | Autobiographical Continuity Under Memory Injection and Goal Drift | Published | https://doi.org/10.5281/zenodo.21171374 |
 
 ### Physics Support Arc
 
@@ -71,12 +73,22 @@ The Theory Arc is complete through V01.03. Subsequent arcs will be released as t
 
 ## Citation
 
-Individual publications and labs in this repository are archived as standalone Zenodo records and assigned DOIs as they are released.
+Individual publications and labs in this repository should be cited using their standalone Zenodo records listed above.
 
-For the completed Theory Arc, cite the individual Zenodo records listed above.
+For the overall volume, cite:
+
+```text
+Smith, L. C. (2026). V01.00 — Volume I Overview: Observerhood from Constraint, Viability and Recursive Reliability. Zenodo. https://doi.org/10.5281/zenodo.21141843
+```
+
+For the programme-level architecture, cite:
+
+```text
+Smith, L. C. (2026). MP-00 — Mirror Programme Overview: A Recursive Research Architecture for Constraint, Observerhood and Modelled Reality. Zenodo. https://doi.org/10.5281/zenodo.21142318
+```
 
 ## License
 
 Written materials in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-Source code, where included, may be released under a separate software license.
+Source code, where included, may be released under a separate software license. See the licence files included with each computational lab.
