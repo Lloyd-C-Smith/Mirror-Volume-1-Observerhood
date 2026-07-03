@@ -1,4 +1,4 @@
-# Mirror Observerhood Lab I
+# Lab_I_Recursive_Self_Model_Reliability
 
 **Recursive Self-Model Reliability Improves Viability Under Self-Relevant Perturbation**
 
