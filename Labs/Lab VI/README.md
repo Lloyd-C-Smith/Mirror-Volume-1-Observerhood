@@ -2,8 +2,6 @@
 
 **Neuro-Symbolic Persistence in Language-Like Agents**
 
-**DOI:** https://doi.org/10.5281/zenodo.21170478
-
 This reproducibility package accompanies Mirror Observerhood Lab VI, part of the Computational Observerhood Labs of Mirror Programme, Volume I: Observerhood.
 
 Lab VI tests whether a reliability-weighted symbolic commit layer improves robustness in a language-like agent setting. The experiment does not call a production language model. It simulates a stochastic semantic front-end that emits candidate propositions about goal, memory, self-state and tool state. Four architectures are compared: a stateless semantic agent, a memory-only agent, a persistent self-model agent and a Mirror neuro-symbolic agent with channel reliability, symbolic commit gates and diagnostic repair.
