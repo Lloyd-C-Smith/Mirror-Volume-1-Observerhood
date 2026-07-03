@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this material, cite the associated Mirror Observerhood Lab II publication."
+title: "Mirror Observerhood Lab II: Channel-Decomposed Reliability and the Limits of Reliability Tracking Alone"
+authors:
+  - family-names: "Smith"
+    given-names: "Lloyd Christopher"
+year: 2026
+version: "1.0"
+doi: "10.5281/zenodo.21159572"
+url: "https://doi.org/10.5281/zenodo.21159572"
