@@ -4,8 +4,6 @@
 
 This folder contains the paper, code, fixed-seed data and figures for **Mirror Observerhood Lab II**, part of the Computational Observerhood Labs of the Mirror Programme, Volume I: Observerhood.
 
-DOI: <https://doi.org/10.5281/zenodo.21159572>
-
 ## Citation
 
 Smith, L. C. (2026). *Mirror Observerhood Lab II: Channel-Decomposed Reliability and the Limits of Reliability Tracking Alone*. Zenodo. <https://doi.org/10.5281/zenodo.21159572>
