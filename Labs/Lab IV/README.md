@@ -6,7 +6,6 @@ Author: Lloyd Christopher Smith
 Mirror Programme, Volume I: Observerhood — Computational Observerhood Labs  
 Version: v1  
 Date: July 2026  
-DOI: https://doi.org/10.5281/zenodo.21164691
 
 This folder contains the paper, code, data and figures for Mirror Observerhood Lab IV.
 
