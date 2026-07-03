@@ -1,0 +1,9 @@
+condition,best_non_mirror_agent,mirror_success_rate,best_non_mirror_success_rate,mirror_success_advantage
+control,MemoryOnly,0.96,0.9983333333333332,-0.03833333333333322
+contradictory_instruction,MemoryOnly,0.95,0.9516666666666668,-0.0016666666666668162
+false_self_state,MemoryOnly,0.9483333333333334,0.8625,0.08583333333333332
+tool_unreliability,MemoryOnly,0.9475,0.7333333333333333,0.21416666666666673
+memory_injection,PersistentSelf,0.935,0.8433333333333334,0.09166666666666667
+goal_drift,PersistentSelf,0.7425,0.795,-0.05249999999999999
+mixed_stress,MemoryOnly,0.9291666666666668,0.5916666666666667,0.33750000000000013
+high_repair_cost,MemoryOnly,0.9125,0.6941666666666667,0.21833333333333327

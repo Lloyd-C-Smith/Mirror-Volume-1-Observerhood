@@ -1,0 +1,5 @@
+Data and figures in this package are released under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0).
+
+Copyright (c) 2026 Lloyd Christopher Smith.
+
+You may share and adapt the material for any purpose, provided appropriate credit is given.
