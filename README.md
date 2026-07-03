@@ -43,7 +43,7 @@ The Theory Arc is complete through V01.03. Subsequent arcs will be released as t
 
 | Code | Title | Status | DOI |
 |---|---|---|---|
-| V01.04 | Mirror Mathematics I — A Constraint Calculus for Recursive Observerhood | In progress | Pending |
+| V01.04 | Mirror Mathematics I — A Constraint Calculus for Recursive Observerhood | Published | https://doi.org/10.5281/zenodo.21155861 |
 | V01.05 | Mirror Mathematics II — Minimal Observer Thresholds | Upcoming | Pending |
 | V01.06 | Mirror Mathematics III — Identity, Continuity and Memory Governance | Upcoming | Pending |
 
@@ -51,8 +51,8 @@ The Theory Arc is complete through V01.03. Subsequent arcs will be released as t
 
 | Lab | Title | Status | DOI |
 |---|---|---|---|
-| Lab I | Recursive Self-Model Reliability | Upcoming | Pending |
-| Lab II | Channel-Decomposed Reliability | Upcoming | Pending |
+| Lab I | Recursive Self-Model Reliability | Published | https://doi.org/10.5281/zenodo.21157523 |
+| Lab II | Channel-Decomposed Reliability | In Progress | Pending |
 | Lab III | Cost-Sensitive Repair | Upcoming | Pending |
 | Lab IV | Minimal Reliability Thresholds | Upcoming | Pending |
 | Lab V | Recursive Reliability | Upcoming | Pending |
