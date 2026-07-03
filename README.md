@@ -45,7 +45,7 @@ The Theory Arc is complete through V01.03. Subsequent arcs will be released as t
 |---|---|---|---|
 | V01.04 | Mirror Mathematics I — A Constraint Calculus for Recursive Observerhood | Published | https://doi.org/10.5281/zenodo.21155861 |
 | V01.05 | Mirror Mathematics II — Minimal Observer Thresholds | Published | https://doi.org/10.5281/zenodo.21168072 |
-| V01.06 | Mirror Mathematics III — Identity, Continuity and Memory Governance | Upcoming | Pending |
+| V01.06 | Mirror Mathematics III — Identity, Continuity and Memory Governance | Published | https://doi.org/10.5281/zenodo.21172448 |
 
 ### Computational Observerhood Labs
 
@@ -63,7 +63,7 @@ The Theory Arc is complete through V01.03. Subsequent arcs will be released as t
 
 | Code | Title | Status | DOI |
 |---|---|---|---|
-| V01.07 | Mirror Physics I — Constraint Propagation and the Physical Conditions for Observerhood | Upcoming | Pending |
+| V01.07 | Mirror Physics I — Constraint Propagation and the Physical Conditions for Observerhood | In Progress | Pending |
 | V01.08 | Mirror Physics II — Constraint Salience and Physical Coupling | Upcoming | Pending |
 | V01.09 | Mirror Physics III — Thermodynamic Observerhood | Upcoming | Pending |
 | V01.10 | Mirror Physics IV — Causal Invariance and the Speed of Constraint Propagation | Upcoming | Pending |
