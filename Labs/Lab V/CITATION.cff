@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Mirror Observerhood Lab V: Recursive Reliability Under Estimator Corruption"
+message: "If you use this work, please cite Mirror Observerhood Lab V."
+type: article
+authors:
+  - family-names: Smith
+    given-names: Lloyd Christopher
+year: 2026
+version: "v1"
+license: CC-BY-4.0
+
+doi: 10.5281/zenodo.21166653
+url: "https://doi.org/10.5281/zenodo.21166653"
