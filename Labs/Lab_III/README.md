@@ -6,8 +6,6 @@ This folder contains the paper, code, data and figures for Mirror Observerhood L
 
 Lab III tests whether reliability variables become viability-relevant only when they are coupled to actionable and cost-sensitive repair. It follows Lab I, which showed that scalar self-model reliability can help under false self-location, and Lab II, which showed that decomposed reliability alone is insufficient.
 
-DOI: https://doi.org/10.5281/zenodo.21161631
-
 Canonical citation:
 
 Smith, L. C. (2026). *Mirror Observerhood Lab III: Actionable Reliability and Cost-Sensitive Repair in Viability-Constrained Agents*. Zenodo. https://doi.org/10.5281/zenodo.21161631
