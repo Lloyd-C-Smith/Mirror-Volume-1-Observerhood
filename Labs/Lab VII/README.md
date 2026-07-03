@@ -2,8 +2,6 @@
 
 **Autobiographical Continuity Under Memory Injection and Goal Drift**
 
-**DOI:** https://doi.org/10.5281/zenodo.21171374
-
 This reproducibility package accompanies Mirror Observerhood Lab VII, part of the Computational Observerhood Labs of Mirror Programme, Volume I: Observerhood.
 
 Lab VII tests the transition from memory storage to autobiographical continuity. Language-like agents receive true reminders, false memories, corrupted summaries, identity injections, goal-drift prompts and fake tool outputs across long horizons. Five architectures are compared: a stateless language agent, a naive memory agent, a self-model memory agent, a Mirror commit-gated agent and a recursive Mirror agent.
