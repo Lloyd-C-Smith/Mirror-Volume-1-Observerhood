@@ -65,8 +65,8 @@ The Theory Arc develops the conceptual and philosophical foundation of recursive
 
 | Code | Title | Status | DOI |
 |---|---|---|---|
-| V01.07 | Mirror Physics I — Constraint Propagation and the Physical Conditions for Observerhood | Published | https://doi.org/10.5281/zenodo.21178728 |
-| V01.08 | Mirror Physics II — Constraint Salience and Physical Coupling | Published | https://doi.org/10.5281/zenodo.21180083 |
+| V01.07 | Mirror Physics I — Constraint Propagation and the Physical Conditions for Observerhood | In Progress | Pending |
+| V01.08 | Mirror Physics II — Constraint Salience and Physical Coupling | Upcoming | Pending |
 | V01.09 | Mirror Physics III — Thermodynamic Observerhood | Upcoming | Pending |
 | V01.10 | Mirror Physics IV — Causal Invariance and the Speed of Constraint Propagation | Upcoming | Pending |
 | V01.11 | Mirror Physics V — Entropy, Time and Constraint Dissolution | Upcoming | Pending |
