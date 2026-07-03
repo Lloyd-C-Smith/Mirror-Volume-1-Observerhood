@@ -56,7 +56,7 @@ The Theory Arc is complete through V01.03. Subsequent arcs will be released as t
 | Lab III | Cost-Sensitive Repair | Published | https://doi.org/10.5281/zenodo.21161631 |
 | Lab IV | Minimal Reliability Thresholds | Published | https://doi.org/10.5281/zenodo.21164691 |
 | Lab V | Recursive Reliability | Published | https://doi.org/10.5281/zenodo.21166653 |
-| Lab VI | Neuro-Symbolic Persistence | In Progress | Pending |
+| Lab VI | Neuro-Symbolic Persistence | Published | https://doi.org/10.5281/zenodo.21170478 |
 | Lab VII | Autobiographical Continuity | Upcoming | Pending |
 
 ### Physics Support Arc
